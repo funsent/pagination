@@ -1,6 +1,6 @@
 # pagination
 
-> 一款纯Javascript实现的前端分页插件
+> Javascript实现的分页条插件
 
 ### 开发背景
 
