@@ -1,4 +1,4 @@
-# pagination
+# funsent-pagination
 
 > Javascript实现的分页条插件
 
